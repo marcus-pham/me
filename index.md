@@ -19,4 +19,4 @@ All of my books and courses follow principles :
 
 My current book, feel free to access
 
-[Master web scraping with python](http://masterwebscrapingwithpython.com/)
+* [Master web scraping with python](http://masterwebscrapingwithpython.com/)
