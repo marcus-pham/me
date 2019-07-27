@@ -2,7 +2,7 @@
 layout: default
 ---
 
-hi, My name is Marcus Pham.
+hi, my name is Marcus Pham.
 
 
 
