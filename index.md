@@ -14,9 +14,7 @@ All of my books and courses follow principles :
 * Always start from beginner
 * Focus on practice and code skill
 * Working with real life projects
-* Idea is explained in short, clear and simple way
-* Idea is explained with graph, image and code example
-
+* Idea is explained in short, clear and simple way with graph, image and code example
 
 
 My current book, feel free to access
