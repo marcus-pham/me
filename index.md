@@ -5,8 +5,7 @@ layout: default
 hi, my name is Marcus Pham.
 
 
-
-I do data sciences, write tech books and create online courses. 
+I write tech books and create online courses. 
 
 All of my books and courses follow principles :
 
